@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zad2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Calculator/out/artifacts/zad2_jar/zad2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
